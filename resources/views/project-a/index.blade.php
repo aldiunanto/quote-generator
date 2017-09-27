@@ -74,6 +74,11 @@
 					</tr>
 				</thead>
 				<tbody class="bordered-bottom">
+					<tr class="new-category-line">
+						<td class="bordered-right"></td>
+						<td class="bordered-right">features and modules</td>
+						<td></td>
+					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">1</td>
 						<td class="text-left bordered-right">Sepatu Safety KENT Type 123 Black</td>
@@ -81,6 +86,21 @@
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">2</td>
+						<td class="text-left bordered-right">Sepatu Safety KENT Type 8555 Green</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
+					</tr>
+					<tr class="new-category-line">
+						<td class="bordered-right"></td>
+						<td class="bordered-right">security system</td>
+						<td></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">3</td>
+						<td class="text-left bordered-right">Sepatu Safety KENT Type 123 Black</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">4</td>
 						<td class="text-left bordered-right">Sepatu Safety KENT Type 8555 Green</td>
 						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
 					</tr>
