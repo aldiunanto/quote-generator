@@ -23,21 +23,18 @@ body{
 	height: 11.69in;
 	border: 1px solid #ccc;
 	position: relative;
-	/* background-image: url('../../images/Kent-bg-opacity-15.png');
-	background-repeat: no-repeat;
-	background-position: center; */
-	/* margin: 0 auto; */
+	margin: 0 auto;
 }
 header{
 	display: block;
-	background-color: #36455B;
+	background-color: #ED1B24;
 	height: 55px;
 }
 header > div{ height: 100%; position: relative; }
 header > .left{
 	float: left;
 	width: 280px;
-	background-color: #FF0000;
+	background-color: #00ACEE;
 	z-index: 3;
 }
 header > .left:before, header > .middle:before{
@@ -46,33 +43,33 @@ header > .left:before, header > .middle:before{
 	top: 0;
 	position: absolute;
 	border-bottom: 55px solid transparent;
-	border-left: 30px solid #FF0000;
+	border-left: 30px solid #00ACEE;
 	right: -30px;
 }
 header > .middle{
 	float: left;
 	width: 35px;
-	background-color: #232D3B;
+	background-color: #7c0106;
 	z-index: 2;
 }
-header > .middle:before{ border-left: 30px solid #232D3B; }
+header > .middle:before{ border-left: 30px solid #7c0106; }
 header > .right{
 	float: right;
 	margin-right: 20px;
 	z-index: 1;
 }
 header > .right > h1{
+	font-family: 'Raleway';
 	margin: 0; padding: 0;
-	font-weight: 400;
-	color: #8fa6c9;
-	line-height: 50px;
+	font-weight: bold;
+	color: #5b0003;
+	line-height: 52px;
 	font-size: 40px;
 }
 
 .top-info{
 	display: block;
 	margin: 40px 20px 20px 15px;
-	color: #36455B;
 }
 .top-info table{
 	width: 100%;
@@ -99,7 +96,7 @@ header > .right > h1{
 	font-size: 11px;
 }
 .middle-info table th, .quot-content table th, .bottom-info table th{
-	background-color: #FF0000;
+	background-color: #ED1B24;
 	color: #fff;
 	padding: 7px;
 }
@@ -123,7 +120,7 @@ header > .right > h1{
 .quot-content table td:nth-child(5){ width: 35px; }
 .quot-content table td:nth-child(6){ width: 50px; }
 .quot-content th.amount{ min-width: 100px; }
-.quot-content tfoot{ color: #36455B; }
+.quot-content tfoot{ color: #232D3B; }
 .quot-content tfoot td:first-child,
 .quot-content tfoot td:nth-child(2){ padding-right: 12px; }
 .quot-content tfoot .total{ background-color: #eee; }
@@ -145,7 +142,7 @@ p.closing{
 }
 p.closing > span{
 	display: block;
-	color: #FF0000;
+	color: #ED1B24;
 	font-size: 12px;
 	margin-top: 5px;
 }
@@ -155,13 +152,13 @@ footer{
 	bottom: 0;
 	left: 0;
 	height: 25px;
-	background-color: #36455B;
+	background-color: #ED1B24;
 	width: 100%;
 }
 footer > div{ height: 100%; position: relative; float: right; }
 footer > .right{
 	width: 280px;
-	background-color: #FF0000;
+	background-color: #00ACEE;
 	z-index: 3;
 }
 footer > .right:before, footer > .middle:before{
@@ -170,12 +167,12 @@ footer > .right:before, footer > .middle:before{
 	top: 0;
 	position: absolute;
 	border-bottom: 25px solid transparent;
-	border-right: 30px solid #FF0000;
+	border-right: 30px solid #00ACEE;
 	left: -30px;
 }
 footer > .middle{
 	width: 35px;
-	background-color: #232D3B;
+	background-color: #7c0106;
 	z-index: 2;
 }
-footer > .middle:before{ border-right: 30px solid #232D3B; }
+footer > .middle:before{ border-right: 30px solid #7c0106; }

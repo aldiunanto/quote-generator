@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Quotation P-0001/V/2017</title>
+	<link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="{{ asset('css/project-a.css') }}" />
 </head>
 <body>
@@ -19,7 +20,7 @@
 		<section class="top-info">
 			<table>
 				<tr>
-					<td class="text-left align-top"><img src="{{ asset('images/jiu-logo.jpg') }}" alt="JIU Logo" id="jiu-logo"></td>
+					<td class="text-left align-top"><img src="{{ asset('images/spolution-logo.jpg') }}" alt="JIU Logo" id="jiu-logo"></td>
 					<td class="align-top">
 						<h3 class="our-company">PT JALY INDONESIA UTAMA</h3>
 						<address>
@@ -226,7 +227,7 @@
 							<span>08111555574</span>
 						</td>
 						<td class="text-center bordered-right">
-							<img src="{{ asset('images/jiu-logo.jpg') }}" alt="JIU Logo">
+							<img src="{{ asset('images/spolution-logo.jpg') }}" alt="JIU Logo">
 							<span>Suryanto</span>
 						</td>
 						<td class="text-center">&nbsp;</td>
