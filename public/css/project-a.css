@@ -1,0 +1,181 @@
+.text-center{ text-align: center; }
+.text-left{ text-align: left; }
+.text-right{ text-align: right; }
+
+.align-top{ vertical-align: top; }
+.align-middle{ vertical-align: middle; }
+
+.bordered-top{ border-top: 1px solid #ccc; }
+.bordered-bottom{ border-bottom: 1px solid #ccc; }
+.bordered-right{ border-right: 1px solid #ccc; }
+.bordered-left{ border-left: 1px solid #ccc; }
+.bordered-round{ border: 1px solid #ccc; }
+
+.clearfix{ clear: both; }
+
+body{
+	margin: 0;
+	font-family: verdana;
+	font-size: 12px;
+}
+.container{
+	width: 8.27in;
+	height: 11.69in;
+	border: 1px solid #ccc;
+	position: relative;
+	/* background-image: url('../../images/Kent-bg-opacity-15.png');
+	background-repeat: no-repeat;
+	background-position: center; */
+	/* margin: 0 auto; */
+}
+header{
+	display: block;
+	background-color: #36455B;
+	height: 55px;
+}
+header > div{ height: 100%; position: relative; }
+header > .left{
+	float: left;
+	width: 280px;
+	background-color: #FF0000;
+	z-index: 3;
+}
+header > .left:before, header > .middle:before{
+	content: '';
+	width: 0; height: 0;
+	top: 0;
+	position: absolute;
+	border-bottom: 55px solid transparent;
+	border-left: 30px solid #FF0000;
+	right: -30px;
+}
+header > .middle{
+	float: left;
+	width: 35px;
+	background-color: #232D3B;
+	z-index: 2;
+}
+header > .middle:before{ border-left: 30px solid #232D3B; }
+header > .right{
+	float: right;
+	margin-right: 20px;
+	z-index: 1;
+}
+header > .right > h1{
+	margin: 0; padding: 0;
+	font-weight: 400;
+	color: #8fa6c9;
+	line-height: 50px;
+	font-size: 40px;
+}
+
+.top-info{
+	display: block;
+	margin: 40px 20px 20px 15px;
+	color: #36455B;
+}
+.top-info table{
+	width: 100%;
+}
+.top-info table td:first-child{ width: 19%; }
+.top-info table td:last-child{ width: 41%; }
+.top-info table td:nth-child(2){ padding-left: 8px; }
+.top-info table td:last-child{ padding-left: 15px; }
+
+.top-info #jiu-logo{ width: 110px; }
+.top-info address{ display: inline-block; line-height: 18px;  }
+.top-info h3{ margin-top: 0; }
+.top-info h3.our-company{
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 5px;
+}
+.top-info .align-top:last-child address{ margin-top: 5px; }
+
+.middle-info, .bottom-info{ margin: 30px 0 0 0; }
+.middle-info table, .quot-content table, .bottom-info table{
+	width: 100%;
+	border-spacing: 0;
+	border-collapse: collapse;
+	font-size: 11px;
+}
+.middle-info table th, .quot-content table th, .bottom-info table th{
+	background-color: #FF0000;
+	color: #fff;
+	padding: 7px;
+}
+.middle-info table td, .quot-content table td, .bottom-info table td{ padding: 7px; line-height: 16px; }
+
+#salutation{ display: block; }
+
+.quot-content table th{ background-color: #232D3B; }
+.quot-content table td ul{
+	padding: 0 0 0 10px;
+	margin: 0;
+}
+.quot-content table .extra-charges td{
+	padding: 0 7px;
+}
+.quot-content table tr.sized td{ padding-bottom: 0; }
+.quot-content table td .currency{ float: left; }
+.quot-content table td .money{ float: right; }
+.quot-content table td:first-child{ width: 18px; }
+.quot-content table td:nth-child(3){ width: 35px; }
+.quot-content table td:nth-child(5){ width: 35px; }
+.quot-content table td:nth-child(6){ width: 50px; }
+.quot-content th.amount{ min-width: 100px; }
+.quot-content tfoot{ color: #36455B; }
+.quot-content tfoot td:first-child,
+.quot-content tfoot td:nth-child(2){ padding-right: 12px; }
+.quot-content tfoot .total{ background-color: #eee; }
+
+.bottom-info thead th:nth-child(2),
+.bottom-info thead th:nth-child(3),
+.bottom-info thead th:last-child{ width: 18.33%; }
+.bottom-info img{
+	display: block;
+	height: 80px;
+	margin: 0 auto 10px;
+}
+.bottom-info span{ display: block; }
+
+p.closing{
+	padding: 10px 30px;
+	line-height: 16px;
+	font-size: 10px;
+}
+p.closing > span{
+	display: block;
+	color: #FF0000;
+	font-size: 12px;
+	margin-top: 5px;
+}
+
+footer{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	height: 25px;
+	background-color: #36455B;
+	width: 100%;
+}
+footer > div{ height: 100%; position: relative; float: right; }
+footer > .right{
+	width: 280px;
+	background-color: #FF0000;
+	z-index: 3;
+}
+footer > .right:before, footer > .middle:before{
+	content: '';
+	width: 0; height: 0;
+	top: 0;
+	position: absolute;
+	border-bottom: 25px solid transparent;
+	border-right: 30px solid #FF0000;
+	left: -30px;
+}
+footer > .middle{
+	width: 35px;
+	background-color: #232D3B;
+	z-index: 2;
+}
+footer > .middle:before{ border-right: 30px solid #232D3B; }

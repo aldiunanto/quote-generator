@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::prefix('generate')->group(function(){
+	Route::get('project-a', function(){
+		return view('project-a.index');
+	});
+});
