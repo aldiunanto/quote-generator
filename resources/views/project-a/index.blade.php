@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Quotation P-0001/V/2017</title>
+	<title>Quotation Q-0007/IX/2017</title>
 	<link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="{{ asset('css/project-a.css') }}" />
 </head>
@@ -26,17 +26,16 @@
 						<address>
 							Jl. Narogong, Bogor - Jawa Barat - Indonesia.<br />
 							Phone: 087770958005<br />
-							WhatsApp: 081511394028<br />
 							Website: http://www.spolution.com
 						</address>
 					</td>
 					<td class="align-top">
 						<h3>QUOTATION FOR</h3>
 						<address>
-							PT Wijaya Karya Beton Tbk<br />
-							Address: Komplek Ketapang Business Centre blok D9.<br />
+							PT WIJAYA KARYA (Persero) Tbk.<br />
+							Address: JL. D.I. Panjaitan Kav. 9-10, Jakarta 13340.<br />
+							Phone:  +6221 8067 9200<br />
 							Attention: Agung Nugraha<br />
-							Phone: 081290464795<br />
 							Your Reff: -
 						</address>
 					</td>
@@ -70,7 +69,7 @@
 					<tr>
 						<th class="text-center">#</th>
 						<th class="text-center">SPECIFICATIONS</th>
-						<th class="text-center amount">AMOUNT</th>
+						<th class="text-center amount">COST IN IDR</th>
 					</tr>
 				</thead>
 				<tbody class="bordered-bottom">
@@ -81,12 +80,27 @@
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">1</td>
-						<td class="text-left bordered-right">Sepatu Safety KENT Type 123 Black</td>
+						<td class="text-left bordered-right">Maintain Suppliers (CRUD)</td>
 						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">2</td>
-						<td class="text-left bordered-right">Sepatu Safety KENT Type 8555 Green</td>
+						<td class="text-left bordered-right">Maintain Materials (CRUD)</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">3</td>
+						<td class="text-left bordered-right">Purchase Order Processing</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">4</td>
+						<td class="text-left bordered-right">Reporting</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">5</td>
+						<td class="text-left bordered-right">Dashboard Summary</td>
 						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
 					</tr>
 					<tr class="new-category-line">
@@ -95,19 +109,64 @@
 						<td></td>
 					</tr>
 					<tr class="sized">
+						<td class="text-center align-top bordered-right">1</td>
+						<td class="text-left bordered-right">Authentication</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">2</td>
+						<td class="text-left bordered-right">Form Validation</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
+					</tr>
+					<tr class="sized">
 						<td class="text-center align-top bordered-right">3</td>
-						<td class="text-left bordered-right">Sepatu Safety KENT Type 123 Black</td>
+						<td class="text-left bordered-right">HTTP Request &amp; HTTP Respond</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">4</td>
+						<td class="text-left bordered-right">Routing</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">5</td>
+						<td class="text-left bordered-right">Cross-Site Request Forgery (CSRF) Token</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">6</td>
+						<td class="text-left bordered-right">Hashing Password</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
+					</tr>
+					<tr class="new-category-line">
+						<td class="bordered-right"></td>
+						<td class="bordered-right">User Interface</td>
+						<td></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">1</td>
+						<td class="text-left bordered-right">Website Architecture &amp; Navigations</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">2</td>
+						<td class="text-left bordered-right">Webpage Template Design</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">3</td>
+						<td class="text-left bordered-right">Form Design</td>
 						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">4</td>
-						<td class="text-left bordered-right">Sepatu Safety KENT Type 8555 Green</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
+						<td class="text-left bordered-right">User Experience</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
 					</tr>
-					<tr>
-						<td class="text-center align-top bordered-right"></td>
-						<td class="text-left bordered-right"></td>
-						<td class="text-center align-top"></td>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">5</td>
+						<td class="text-left bordered-right">Typography</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
 					</tr>
 					<tr class="remarks">
 						<td colspan="2" class="text-left bordered-top bordered-right bordered-bottom"><em>Remarks: -</em></td>
