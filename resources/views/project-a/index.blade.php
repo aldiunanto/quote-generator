@@ -80,12 +80,12 @@
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">1</td>
-						<td class="text-left bordered-right">Maintain Suppliers (CRUD)</td>
+						<td class="text-left bordered-right">Suppliers Data Processing</td>
 						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">2</td>
-						<td class="text-left bordered-right">Maintain Materials (CRUD)</td>
+						<td class="text-left bordered-right">Materials Data Processing</td>
 						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.898.000</span></td>
 					</tr>
 					<tr class="sized">
