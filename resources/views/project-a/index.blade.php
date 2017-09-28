@@ -160,16 +160,51 @@
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">4</td>
-						<td class="text-left bordered-right">User Experience</td>
+						<td class="text-left bordered-right">Date/Time Picker Automation</td>
 						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">5</td>
+						<td class="text-left bordered-right">User Experience</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">6</td>
 						<td class="text-left bordered-right">Typography</td>
 						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
 					</tr>
+					<tr class="new-category-line">
+						<td class="bordered-right"></td>
+						<td class="bordered-right">Others</td>
+						<td></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">1</td>
+						<td class="text-left bordered-right">Animation</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">2</td>
+						<td class="text-left bordered-right">Website Analytics Integration</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
+					</tr>
+					<tr class="new-category-line">
+						<td class="bordered-right"></td>
+						<td class="bordered-right">WEBSITE DOMAIN &amp; HOSTING</td>
+						<td></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">1</td>
+						<td class="text-left bordered-right">Hosting Business - Bronze (Server Indonesia). 1 GB space, 125 GB bandwidth</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">2</td>
+						<td class="text-left bordered-right">Domain Registration "http://wikaepo.com"</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.394.000</span></td>
+					</tr>
 					<tr class="remarks">
-						<td colspan="2" class="text-left bordered-top bordered-right bordered-bottom"><em>Remarks: -</em></td>
+						<td colspan="2" class="text-left bordered-top bordered-right bordered-bottom"><em>Remarks: Website Domain &amp; Hosting are registered in http://dapurhosting.com</em></td>
 						<td></td>
 					</tr>
 				</tbody>

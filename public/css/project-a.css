@@ -20,7 +20,7 @@ body{
 }
 .container{
 	width: 8.27in;
-	min-height: 15in;
+	min-height: 17in;
 	border: 1px solid #ccc;
 	position: relative;
 	margin: 0 auto;
@@ -116,6 +116,7 @@ header > .right > h1{
 .quot-content table tr.new-category-line td{
 	text-transform: uppercase;
 	font-weight: bold;
+	font-style: italic;
 	color: #232D3B;
 	padding-top: 20px;
 	padding-bottom: 2px;
