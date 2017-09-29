@@ -55,8 +55,8 @@
 				<tbody>
 					<tr>
 						<td class="text-center bordered-right">Q-0007/IX/2017</td>
-						<td class="text-center bordered-right">September 28th, 2017</td>
-						<td class="text-center bordered-right">October 28th, 2017</td>
+						<td class="text-center bordered-right">September 29th, 2017</td>
+						<td class="text-center bordered-right">October 29th, 2017</td>
 						<td class="text-center">Aldi Unanto</td>
 					</tr>
 				</tbody>
