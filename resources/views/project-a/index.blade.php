@@ -81,27 +81,27 @@
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">1</td>
 						<td class="text-left bordered-right">Suppliers Data Processing</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">1.700.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">2</td>
 						<td class="text-left bordered-right">Materials Data Processing</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.350.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">3</td>
 						<td class="text-left bordered-right">Purchase Order Processing</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">5.200.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">4</td>
 						<td class="text-left bordered-right">Reporting</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.000.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">5</td>
 						<td class="text-left bordered-right">Dashboard Summary</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">825.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="new-category-line">
 						<td class="bordered-right"></td>
@@ -111,32 +111,32 @@
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">1</td>
 						<td class="text-left bordered-right">Authentication</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">720.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">2</td>
 						<td class="text-left bordered-right">Form Validation</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">450.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">3</td>
 						<td class="text-left bordered-right">HTTP Request &amp; HTTP Respond</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">710.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">4</td>
 						<td class="text-left bordered-right">Routing</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">220.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">5</td>
 						<td class="text-left bordered-right">Cross-Site Request Forgery (CSRF) Token</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">450.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">6</td>
 						<td class="text-left bordered-right">Hashing Password</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">450.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="new-category-line">
 						<td class="bordered-right"></td>
@@ -146,17 +146,17 @@
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">1</td>
 						<td class="text-left bordered-right">Website Architecture &amp; Navigations</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">715.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">2</td>
 						<td class="text-left bordered-right">Webpage Template Design</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">3.250.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">3</td>
 						<td class="text-left bordered-right">Form Design</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">1.100.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">4</td>
@@ -166,12 +166,12 @@
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">5</td>
 						<td class="text-left bordered-right">User Experience</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">800.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">6</td>
 						<td class="text-left bordered-right">Typography</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">500.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="new-category-line">
 						<td class="bordered-right"></td>
@@ -181,12 +181,12 @@
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">1</td>
 						<td class="text-left bordered-right">Animation</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">FREE</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">2</td>
 						<td class="text-left bordered-right">Website Analytics Integration</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">FREE</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="new-category-line">
 						<td class="bordered-right"></td>
@@ -196,12 +196,12 @@
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">1</td>
 						<td class="text-left bordered-right">Hosting Business - Bronze (Server Indonesia). 1 GB space, 125 GB bandwidth</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">1.000.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">2</td>
 						<td class="text-left bordered-right">Domain Registration "http://wikaepo.com"</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">125.000,00</span></td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">0,00</span></td>
 					</tr>
 					<tr class="remarks">
 						<td colspan="2" class="text-left bordered-top bordered-right bordered-bottom"><em>Remarks: Website Domain &amp; Hosting are registered in http://dapurhosting.com. And of course you can modify domain name, just let us know.</em></td>
@@ -222,7 +222,7 @@
 						<td class="total bordered-left bordered-bottom">
 							<strong>
 								<span class="currency">Rp</span>
-								<span class="money">22.565.000,00</span>
+								<span class="money">0,00</span>
 							</strong>
 						</td>
 					</tr>
