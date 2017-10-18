@@ -103,6 +103,11 @@
 						<td class="text-left bordered-right">Dashboard Summary</td>
 						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">825.000,00</span></td>
 					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">6</td>
+						<td class="text-left bordered-right">SP3 Data Processing</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">2.100.000,00</span></td>
+					</tr>
 					<tr class="new-category-line">
 						<td class="bordered-right"></td>
 						<td class="bordered-right">security system</td>
@@ -161,7 +166,7 @@
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">4</td>
 						<td class="text-left bordered-right">Date/Time Picker Automation</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">FREE</span></td>
+						<td class="text-center align-top"><span class="money">FREE</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">5</td>
@@ -181,12 +186,17 @@
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">1</td>
 						<td class="text-left bordered-right">Animation</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">FREE</span></td>
+						<td class="text-center align-top"><span class="money">FREE</span></td>
 					</tr>
 					<tr class="sized">
 						<td class="text-center align-top bordered-right">2</td>
 						<td class="text-left bordered-right">Website Analytics Integration</td>
-						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">FREE</span></td>
+						<td class="text-center align-top"><span class="money">FREE</span></td>
+					</tr>
+					<tr class="sized">
+						<td class="text-center align-top bordered-right">3</td>
+						<td class="text-left bordered-right">Database Import &amp; Merging</td>
+						<td class="text-center align-top"><span class="currency">Rp</span><span class="money">750.000,00</span></td>
 					</tr>
 					<tr class="new-category-line">
 						<td class="bordered-right"></td>
@@ -222,7 +232,7 @@
 						<td class="total bordered-left bordered-bottom">
 							<strong>
 								<span class="currency">Rp</span>
-								<span class="money">22.565.000,00</span>
+								<span class="money">25.415.000,00</span>
 							</strong>
 						</td>
 					</tr>
@@ -243,7 +253,7 @@
 						<td class="text-left bordered-right">
 							<ol>
 								<li>Quote validation: Within 30 days and may be accepted at any time prior to that date.</li>
-								<li>Term of payment: 50% upfront and 50% upon completion of development and UAT.</li>
+								<li>Term of payment: 30% upfront and 70% upon completion of development and UAT.</li>
 								<li>Ownership of domain &amp; hosting: We will supply to you account credentials for domain name registration and/or web hosting that we purchased on your behalf when you reimburse us for any expenses that we have incurred.</li>
 								<li>Supply of materials: You must supply all materials and information required by us to complete the work in accordance with any agreed specification.</li>
 								<li>Design revisions: We are pleased to offer you 3x revisions FOR FREE but may charge for additional designs if you make a change to the original design specification.</li>
